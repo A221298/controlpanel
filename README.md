@@ -4,7 +4,7 @@
 
 [Basic description of the task]
 
-Merging the robot arm's control panel we made in task one [details: https://github.com/aalsomali/robotarm] with a new control panel for the robot's base to control the movement of the robot. We are tasked to create an html page for the robt base's control panel and a database then connect the two with the use of php. The html page has five buttons that could move the robot forward, backward, left, right, or stop by fetching the information from the database. we also have a bonus task of changing the html page into mobile web view.
+Merging the robot arm's control panel we made in task one [details: https://github.com/A221298/robotarm] with a new control panel for the robot's base to control the movement of the robot. We are tasked to create an html page for the robt base's control panel and a database then connect the two with the use of php. The html page has five buttons that could move the robot forward, backward, left, right, or stop by fetching the information from the database. we also have a bonus task of changing the html page into mobile web view.
 
 [Languages used in the project]
 
